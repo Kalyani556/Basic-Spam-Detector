@@ -48,3 +48,17 @@ Free money -> spam
 Hello bro -> not spam
 
 
+# Screenshots:-
+
+1. Testing the Project:
+
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/0584ef21-f89b-4b18-a295-493583a6d54b" />
+
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/11de5f19-1b91-4a79-a26e-16ff9b66e883" />
+
+2. Output:
+
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/afb56e63-cf7b-4cb9-9541-a385cb868fff" />
+
+
+
