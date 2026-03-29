@@ -1,0 +1,43 @@
+1.Problem Statement:-
+In today’s digital world, we receive many unwanted messages like spam emails, fake offers, and promotional texts. These messages can waste time and sometimes even lead to scams.
+The problem I chose is to identify whether a message is spam or not spam using basic machine learning algorithm and python.
+
+2.Why This Problem Matters:-
+Spam messages are very common in daily life. 
+They distract users, can contain harmful links, reduce productivity.
+By building a spam detector, we can automatically filter such messages and improve user experience.
+
+3. My approach to solve it:
+To solve this problem, I used a basic Machine Learning approach in Python:
+ - I created a small dataset of messages (spam and non-spam)
+ - Converted text into numerical data using CountVectorizer
+ - Trained a model using Naive Bayes algorithm
+ - Finally, tested the model on new messages to check predictions.
+
+4. Tools & Technologies Used:-
+ -Python
+ -Scikit-learn
+ -CountVectorizer (for text processing)
+ -Multinomial Naive Bayes (for classification)
+
+5. Key Decisions Taken:-
+ -Used CountVectorizer because it is easy to convert text into numbers
+ -Chose Naive Bayes as it works well for text classification
+ -Kept dataset small for simplicity and understanding
+
+6. Challenges Faced:-
+ -Understanding how text is converted into numbers
+ -Learning how machine learning models are trained
+ -Limited dataset, so accuracy may not be very high
+
+7. Results:-
+ -The model successfully classified messages into:
+ -Spam (e.g., "Free money offer")
+ -Not Spam (e.g., "Let's go for lunch")
+ -Although basic, the model shows how ML can be used in real-life problems.
+
+8. What I Learned:-
+ -Basics of Machine Learning
+ -How text classification works
+ -How to use Scikit-learn
+ -Importance of data in training models
